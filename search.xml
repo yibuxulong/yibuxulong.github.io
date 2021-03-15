@@ -3,18 +3,12 @@
   <entry>
     <title>关于yibuxulong.com</title>
     <url>/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/</url>
-    <content><![CDATA[<p>你好啊，欢迎到 yibuxulong.com</p>
-<ul>
-<li><p><strong>关于yibuxulong</strong></p>
-<p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，too small to be ignored。用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，所以申请个站的时候，毫不犹豫就选择了它。</p>
-</li>
-</ul>
+    <content><![CDATA[<p>你好啊，欢迎来到 yibuxulong.com</p>
  <span id="more"></span>
 
-<ul>
-<li><p><strong>关于建站</strong></p>
-<ul>
-<li><p><strong>社区</strong></p>
+<h1 id="关于yibuxulong"><a href="#关于yibuxulong" class="headerlink" title="关于yibuxulong"></a>关于yibuxulong</h1><p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，<em>too small to be ignored</em>。用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，所以申请个站的时候，毫不犹豫就选择了它。</p>
+<h1 id="关于建站"><a href="#关于建站" class="headerlink" title="关于建站"></a>关于建站</h1><ul>
+<li><p>社区</p>
 <p>说起来现在很多领域都尝试细分自己的社区，但总的来说社区的壁垒是越来越低的。</p>
 <p>花上一分钟时间下载，授权账号之后填写一些内容，就能在一个从未到过的平台开始体验。内容大多无需主动寻找，除了一些在固定平台深耕的用户以外，几乎随处都能见到一些熟悉的面孔。</p>
 <p>利益上的相互引流之外，一个“爆款”的出现很大程度上会推动社区间的流动，近一年最具代表性之一的算是“健身环大冒险”，从switch游戏圈子火到时尚美妆见长的小红书，疫情期间让很多人入坑了switch。</p>
@@ -22,21 +16,17 @@
 <p>为什么需要同时身处那么多平台？</p>
 <p><img src="/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/%E5%81%A5%E8%BA%AB%E7%8E%AF.jpg" alt="健身环"></p>
 <center>打开健身环需要的心理建设超过Keep</center></li>
-<li><p><strong>理由</strong></p>
+<li><p>理由</p>
 <p>从我个人来说，比较活跃的平台主要是知乎、豆瓣和哔哩哔哩（B站）。知乎查阅和互动居多，豆瓣用来记录，B站用来学习（误）。</p>
 <p>微博偶尔用，前段时间想用来替代一部分朋友圈的功能，但其实还是更像一个“瘸腿”的树洞————加过的好友不多，但毕竟还是互相认识。</p>
 <p>CSDN博客也写，总结一些技术方面的东西。另外还管理着一个公众号，最近一年除了更新一个现代诗系列，也就写了两三篇文章，公众号说到底还是给订阅的人做内容服务，也就是说质和量是需要兼顾的。</p>
-<p>偶尔用[纯纯写作]或者记事本记录的一些随想，少一点不成一段话，多一些三五百字也有,在一般社交平台发略显重大，而对一篇推文来说又显得松散，只好一直躺在那里，偶尔翻出来看看。</p>
+<p>偶尔用<a href="https://writer.drakeet.com/">纯纯写作</a>或者记事本记录的一些随想，少一点不成一段话，多一些三五百字也有,在一般社交平台发略显重大，而对一篇推文来说又显得松散，只好一直躺在那里，偶尔翻出来看看。</p>
 <p>说着说着也就说起建站的理由，把丢在记事本和停在脑袋里的内容擦亮，找个地方陈列出来，希望用另一种方式被看到。</p>
 </li>
 </ul>
-</li>
-<li><p><strong>做些什么</strong></p>
-<p>  初步想法是把yibuxulong.com做成个人主页，记录自己的生活、学习、研究，大事小事，长篇短篇都有。</p>
+<h1 id="做些什么"><a href="#做些什么" class="headerlink" title="做些什么"></a>做些什么</h1><p>  初步想法是把yibuxulong.com做成个人主页，记录自己的生活、学习、研究，大事小事，长篇短篇都有。</p>
 <p>  理想中能在空乏无聊的时候挪一些被流量把持的时间到自我对话中来；在灰心丧气的时候找一个地方回顾一下自己。</p>
-<p>  就挺好。</p>
-</li>
-</ul>
+<p>  以上。</p>
 ]]></content>
       <categories>
         <category>Diary/日记</category>
@@ -48,6 +38,35 @@
   <entry>
     <title>Hexo+Github搭建博客连接超时和SSH错误</title>
     <url>/2021/03/15/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%BF%9E%E6%8E%A5%E8%B6%85%E6%97%B6%E5%92%8CSSH%E9%94%99%E8%AF%AF/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>最近跟着知乎<a href="https://zhuanlan.zhihu.com/p/102592286">@枫叶的文章</a>用Hexo+Github搭建个人博客，执行hexo clean，hexo g，hexo d三部曲生成和部署网页，到执行hexo d的时候总会出现连接超时或者SSL连接错误的问题:</p>
+ <span id="more"></span>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Failed to connect to github.com port 443: Timed out</span><br><span class="line">OpenSSL SSL_read: Connection was reset, errno 10054</span><br></pre></td></tr></table></figure>
+
+
+
+<p>关于连接超时问题，网上主流解决方法是自定义一个接口代理或输入如下语句禁用接口代理:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure>
+
+
+<p>但只是偶尔有用，治标不治本，而且有几次连接超时的时候，用git config –global http.proxy查询接口的时候返回的就是空，说明这个语句的执行并没有起到实际作用。</p>
+<p>关于SSL，主流的解决办法是把SSL验证设为false：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global http.sslVerify &quot;false&quot;</span><br></pre></td></tr></table></figure>
+
+
+<p>但以上两种方法都只有一定概率能成功。</p>
+<h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><p>最终我发现问题在于根目录配置文件_config.yml的deploy这部分，仓库地址repository原来是写了https开头，改成如下即可：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:YOURNAME.github.io.git # 替换你的账号</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure>
+
+<p>以上，欢迎交流和指正。</p>
+]]></content>
+      <categories>
+        <category>Technique/技术</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+        <tag>blog</tag>
+      </tags>
   </entry>
 </search>
