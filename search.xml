@@ -4,7 +4,7 @@
     <title>关于yibuxulong.com</title>
     <url>/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/</url>
     <content><![CDATA[<p>你好啊，欢迎来到 yibuxulong.com</p>
- <span id="more"></span>
+<span id="more"></span>
 
 <h1 id="关于yibuxulong"><a href="#关于yibuxulong" class="headerlink" title="关于yibuxulong"></a>关于yibuxulong</h1><p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，<em>too small to be ignored</em>。用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，所以申请个站的时候，毫不犹豫就选择了它。</p>
 <h1 id="关于建站"><a href="#关于建站" class="headerlink" title="关于建站"></a>关于建站</h1><ul>
@@ -40,6 +40,7 @@
     <url>/2021/03/15/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%BF%9E%E6%8E%A5%E8%B6%85%E6%97%B6%E5%92%8CSSH%E9%94%99%E8%AF%AF/</url>
     <content><![CDATA[<h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>最近跟着知乎<a href="https://zhuanlan.zhihu.com/p/102592286">@枫叶的文章</a>用Hexo+Github搭建个人博客，执行hexo clean，hexo g，hexo d三部曲生成和部署网页，到执行hexo d的时候总会出现连接超时或者SSL连接错误的问题:</p>
  <span id="more"></span>
+
 
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Failed to connect to github.com port 443: Timed out</span><br><span class="line">OpenSSL SSL_read: Connection was reset, errno 10054</span><br></pre></td></tr></table></figure>
 
