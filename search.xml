@@ -6,7 +6,7 @@
     <content><![CDATA[<p>你好啊，欢迎来到 yibuxulong.com</p>
 <span id="more"></span>
 
-<h1 id="关于yibuxulong"><a href="#关于yibuxulong" class="headerlink" title="关于yibuxulong"></a>关于yibuxulong</h1><p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，<em>too small to be ignored</em>。用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，所以申请个站的时候，毫不犹豫就选择了它。</p>
+<h1 id="关于yibuxulong"><a href="#关于yibuxulong" class="headerlink" title="关于yibuxulong"></a>关于yibuxulong</h1><p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，too small to be ignored。用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，所以申请个站的时候，毫不犹豫就选择了它。</p>
 <h1 id="关于建站"><a href="#关于建站" class="headerlink" title="关于建站"></a>关于建站</h1><ul>
 <li><p>社区</p>
 <p>说起来现在很多领域都尝试细分自己的社区，但总的来说社区的壁垒是越来越低的。</p>
@@ -33,6 +33,33 @@
       </categories>
       <tags>
         <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梦到的2vs2桌游</title>
+    <url>/2021/03/16/%E6%A2%A6%E5%88%B0%E7%9A%842vs2%E6%A1%8C%E6%B8%B8/</url>
+    <content><![CDATA[<p>一个暂未起名的游戏。</p>
+ <span id="more"></span>
+
+<p>2020年8月，疫情在家的某一天梦到的桌游，梦里基本规则已经有了，醒过来补充了亿点细节。本来想做个小程序玩玩的，一直都忙，上学期和实验室同学用纸牌试玩了一下，感觉合作的策略跟我想象的不大一样，先跑的玩家参与感稍弱。</p>
+<h1 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h1><h2 id="游戏设定"><a href="#游戏设定" class="headerlink" title="游戏设定"></a>游戏设定</h2><p>四人对面而坐，坐左右两边的为对手，坐对面的为队友，当玩家手牌中<strong>仅有1种花色的牌且手牌大于1张时</strong>可以选择公开手牌并结束自己的游戏，队伍胜利条件是玩家和队友都结束游戏。</p>
+<h2 id="开局"><a href="#开局" class="headerlink" title="开局"></a>开局</h2><p>开始时，每人摸足8张牌，如果此时手上已经有三种花色牌，则出示每种花色各一张之后停止摸牌。如果此时手牌花色不足三种，则继续摸牌直至手牌中出现三种花色或手牌到达12张为止。（大小王可以当做任意花色）</p>
+<h2 id="回合"><a href="#回合" class="headerlink" title="回合"></a>回合</h2><p>玩家在回合中必须选择如下操作中的一个：</p>
+<ul>
+<li>向一位对手和队友各发一张手牌，然后从牌堆摸一张牌。</li>
+<li>打出（斗地主规则的）对子，顺子，连对，炸弹一个，放在自己面前，并摸一张牌。打出时：若自己场上已经有牌，<strong>则收回之前自己打出的牌</strong>。同时，若其他人场上有牌，且自己的牌面或顺次（对子小于顺子小于三带一小于连对小于炸弹）大于，则使一名玩家收回牌。<strong>若场上只有队友牌区有牌，队友必须收回牌。</strong></li>
+<li>向任意一位对手摸一张牌，自己丢掉一张牌。</li>
+</ul>
+<h2 id="补牌"><a href="#补牌" class="headerlink" title="补牌"></a>补牌</h2><p>在任意操作结束时，如果手牌为空，则必须从牌堆摸两张牌，<strong>补手牌的优先级大于所有其它判定和操作，当玩家空手牌且无法补充手牌时，需要等待下一次有手牌才能行动。</strong></p>
+<h2 id="判定"><a href="#判定" class="headerlink" title="判定"></a>判定</h2><p>任意玩家的<strong>回合操作结束时</strong>计算场上是否有玩家结束游戏，此时任意玩家在符合全部手牌都是1种花色的情况下<strong>可以选择结束游戏</strong>，结束后不再参与回合轮转，桌上自己的牌被弃掉。</p>
+]]></content>
+      <categories>
+        <category>Game/游戏</category>
+      </categories>
+      <tags>
+        <tag>table game</tag>
+        <tag>multi-player</tag>
+        <tag>poker</tag>
       </tags>
   </entry>
   <entry>
