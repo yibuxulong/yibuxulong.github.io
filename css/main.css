@@ -391,7 +391,7 @@ pre {
 }
 pre,
 code {
-  font-family: 'PT Mono', consolas, Menlo, monospace, "Noto Serif SC";
+  font-family: 'Source Code Pro', consolas, Menlo, monospace, "Noto Serif SC";
 }
 code {
   background: #eee;
@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffc9fc;
+  background: #b41632;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1964,10 +1964,10 @@ pre .javascript .function {
   text-align: center;
 }
 .post-copyright {
-  background: var(--card-bg-color);
+  background: #fff;
   border-left: 3px solid #bbb;
   list-style: none;
-  margin: 2em 0 0;
+  margin: 6em 0 0;
   padding: 0.5em 1em;
 }
 .category-all-page .category-all-title {
