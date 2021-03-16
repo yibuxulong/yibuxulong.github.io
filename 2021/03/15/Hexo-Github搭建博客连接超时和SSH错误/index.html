@@ -28,7 +28,7 @@
 <meta property="og:description" content="最近建站中遇到的连接问题">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-03-15T13:59:42.000Z">
-<meta property="article:modified_time" content="2021-03-16T03:19:36.428Z">
+<meta property="article:modified_time" content="2021-03-16T07:14:40.245Z">
 <meta property="article:author" content="yibuxulong">
 <meta property="article:tag" content="hexo">
 <meta property="article:tag" content="github">
@@ -227,7 +227,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2021-03-16 11:19:36" itemprop="dateModified" datetime="2021-03-16T11:19:36+08:00">2021-03-16</time>
+                <time title="修改时间：2021-03-16 15:14:40" itemprop="dateModified" datetime="2021-03-16T15:14:40+08:00">2021-03-16</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -267,20 +267,20 @@
         <p><em>最近建站中遇到的连接问题</em><br> <span id="more"></span></p>
 <hr>
 <h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>最近跟着知乎<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/102592286">@枫叶的文章</a>用Hexo+Github搭建个人博客，执行hexo clean，hexo g，hexo d三部曲生成和部署网页。在执行hexo d的时候总会出现连接超时或者SSL错误的问题:</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Failed to connect to github.com port 443: Timed out</span><br><span class="line">OpenSSL SSL_read: Connection was reset, errno 10054</span><br></pre></td></tr></table></figure>
+<figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Failed <span class="keyword">to</span> <span class="keyword">connect</span> <span class="keyword">to</span> github.com port <span class="number">443</span>: Timed <span class="keyword">out</span></span><br><span class="line">OpenSSL SSL_read: <span class="keyword">Connection</span> was <span class="keyword">reset</span>, errno <span class="number">10054</span></span><br></pre></td></tr></table></figure>
 
 <p>关于连接超时问题，网上主流解决方法是自定义一个接口代理或输入如下语句<strong>禁用接口代理</strong>:</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure>
+<figure class="highlight tcl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --<span class="keyword">global</span> --<span class="keyword">unset</span> <span class="keyword">http</span>.proxy</span><br><span class="line">git config --<span class="keyword">global</span> --<span class="keyword">unset</span> https.proxy</span><br></pre></td></tr></table></figure>
 
 
 <p>这个方法只是偶尔有用，治标不治本，而且有几次连接超时的时候我用git config –global http.proxy查询接口，返回的就是空，说明这个语句的执行并没有起到实际作用。</p>
 <p>关于SSL错误的问题，主流的解决办法是把SSL验证设为false：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.sslVerify &quot;false&quot;</span><br></pre></td></tr></table></figure>
+<figure class="highlight tcl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --<span class="keyword">global</span> <span class="keyword">http</span>.sslVerify <span class="string">&quot;false&quot;</span></span><br></pre></td></tr></table></figure>
 
 
 <p>但以上两种方法都只有一定概率能成功。</p>
 <h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><p>最终我发现问题在于根目录配置文件_config.yml的deploy这部分，仓库地址repository原来是写了https开头，将deploy改成如下即可正常部署：</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:YOURNAME.github.io.git # 替换你的账号</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure>
+<figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="symbol">deploy:</span></span><br><span class="line"><span class="symbol">  type:</span> git</span><br><span class="line"><span class="symbol">  repository:</span> git@github.com:YOURNAME.github.io.git <span class="meta"># 替换你的账号</span></span><br><span class="line"><span class="symbol">  branch:</span> main</span><br></pre></td></tr></table></figure>
 
 <p>以上，欢迎交流和指正。</p>
 
