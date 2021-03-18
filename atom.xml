@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-16T03:19:43.586Z</updated>
+  <updated>2021-03-16T03:19:44.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/03/16/%E6%B1%BD%E6%B0%B4/"/>
     <id>http://example.com/2021/03/16/%E6%B1%BD%E6%B0%B4/</id>
     <published>2021-03-16T03:11:27.000Z</published>
-    <updated>2021-03-16T03:19:43.586Z</updated>
+    <updated>2021-03-16T03:19:44.000Z</updated>
     
     <content type="html"><![CDATA[<p><em>虚构小小说，写于2020年8月3日</em></p><span id="more"></span><hr><p>那时她很爱喝C厂的柠檬汽水，爱到拉着我一起穿了大半个城市去买。</p><p>我还记得两个人蹬着自行车，大中午饭都没吃到了城市另外一边，影子踩在脚下，汗浸湿了半身。那天不巧店没有开，我们在附近找了家麻辣烫吃，那天可能真的很饿，我们吃着麻辣烫都忘记了为什么到这里来。</p><p>后来我们还是分开了，到今天已经过了八年。</p><p>前几天的晚上，刚加班完。第二天休假，想回去喝点啤酒看个剧，就到公司附近一个小超市买。结账排队的时候，一眼就看到了最前面的她——没有穿破洞裤，而是一条长却贴身的裙子，脸上的妆容明显比过去精致了很多。</p><p>收银员一件推一件地扫着货物，她突然想起什么：“再给我拿一瓶柠檬汽水。”收银员转过身去看身后的货架，声音很轻，我心跳猛地快了几拍，望向货架上。</p><p>收银员扒拉了几瓶，问她：“您要哪一种的？”</p><p>“都行。”她说，头也没有抬。</p>]]></content>
     
@@ -44,7 +44,7 @@
     <link href="http://example.com/2021/03/16/%E6%A2%A6%E9%87%8C%E7%9A%842vs2%E6%A1%8C%E6%B8%B8/"/>
     <id>http://example.com/2021/03/16/%E6%A2%A6%E9%87%8C%E7%9A%842vs2%E6%A1%8C%E6%B8%B8/</id>
     <published>2021-03-15T16:49:12.000Z</published>
-    <updated>2021-03-16T03:19:34.908Z</updated>
+    <updated>2021-03-16T03:19:36.000Z</updated>
     
     <content type="html"><![CDATA[<p><em>一个暂未起名的游戏。</em></p> <span id="more"></span><hr><p>2020年8月，疫情在家的某一天梦到的桌游，梦里已经有了基本规则，醒过来补充了亿点细节。本来想做个小程序玩玩，一直都忙，上学期和实验室同学用纸牌试玩了一下，规则问题不大，就是合作的策略跟我想象的不大一样，先跑的玩家参与感稍弱了点。</p><h1 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h1><h2 id="游戏设定"><a href="#游戏设定" class="headerlink" title="游戏设定"></a>游戏设定</h2><p>四人对面而坐，坐左右两边的为对手，坐对面的为队友，按逆时针出牌。</p><p>当玩家手牌中<strong>仅有1种花色的牌且手牌大于1张时</strong>可以选择公开手牌并结束自己的游戏，最终胜利条件是玩家和队友在对方之前结束游戏。</p><h2 id="开局"><a href="#开局" class="headerlink" title="开局"></a>开局</h2><p>开始时，每人摸足8张牌。</p><ul><li>如果此时玩家手上已经有三种花色牌，则出示每种花色的牌各一张，之后停止摸牌。</li><li>如果此时手牌花色不足三种，则继续摸牌直至手牌中出现三种花色或手牌到达12张为止。（大小王可以当做任意花色）</li></ul><h2 id="回合"><a href="#回合" class="headerlink" title="回合"></a>回合</h2><p>满足执行条件时，玩家在回合中必须选择如下操作中的一个：</p><ul><li>向一位对手和队友各发一张手牌，然后从牌堆摸一张牌。（当队友结束游戏后无法执行此操作）</li><li>打出斗地主规则的对子/顺子/连对/炸弹一个，放在玩家面前，并摸一张牌。打出时：若玩家场上已经有牌，<strong>则收回之前打出的牌</strong>。同时，若其他人场上有牌且有牌面比玩家小（按照斗地主规则比大小，且对子小于顺子小于三带一小于连对小于炸弹），使比玩家牌面小的一名玩家收回牌。<strong>若场上只有队友面前有小于玩家的牌，队友必须收回牌。</strong></li><li>向任意一位对手摸一张牌，自己丢掉一张牌。（当自己或所有对手没有手牌时无法执行此操作）</li></ul><p>若无法执行以上操作，跳过自己当前回合。</p><h2 id="补牌"><a href="#补牌" class="headerlink" title="补牌"></a>补牌</h2><p>在任意操作结束时，如果手牌为空，则必须从牌堆摸两张牌，<strong>补手牌的优先级大于所有其它判定和操作，当玩家空手牌且无法补充手牌时，需要等待下一次有手牌才能行动。</strong></p><h2 id="结束判定"><a href="#结束判定" class="headerlink" title="结束判定"></a>结束判定</h2><p>任意玩家的<strong>回合操作结束时</strong>计算场上是否有玩家结束游戏，此时任意玩家在符合全部手牌都是1种花色的情况下<strong>可以选择结束游戏</strong>，从结束游戏的玩家开始执行结束判定。结束后不再参与回合轮转，桌上自己的牌被弃掉。</p>]]></content>
     
@@ -69,7 +69,7 @@
     <link href="http://example.com/2021/03/15/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%BF%9E%E6%8E%A5%E8%B6%85%E6%97%B6%E5%92%8CSSH%E9%94%99%E8%AF%AF/"/>
     <id>http://example.com/2021/03/15/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%BF%9E%E6%8E%A5%E8%B6%85%E6%97%B6%E5%92%8CSSH%E9%94%99%E8%AF%AF/</id>
     <published>2021-03-15T13:59:42.000Z</published>
-    <updated>2021-03-16T07:14:40.245Z</updated>
+    <updated>2021-03-16T07:14:42.000Z</updated>
     
     <content type="html"><![CDATA[<p><em>最近建站中遇到的连接问题</em><br> <span id="more"></span></p><hr><h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>最近跟着知乎<a href="https://zhuanlan.zhihu.com/p/102592286">@枫叶的文章</a>用Hexo+Github搭建个人博客，执行hexo clean，hexo g，hexo d三部曲生成和部署网页。在执行hexo d的时候总会出现连接超时或者SSL错误的问题:</p><figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Failed <span class="keyword">to</span> <span class="keyword">connect</span> <span class="keyword">to</span> github.com port <span class="number">443</span>: Timed <span class="keyword">out</span></span><br><span class="line">OpenSSL SSL_read: <span class="keyword">Connection</span> was <span class="keyword">reset</span>, errno <span class="number">10054</span></span><br></pre></td></tr></table></figure><p>关于连接超时问题，网上主流解决方法是自定义一个接口代理或输入如下语句<strong>禁用接口代理</strong>:</p><figure class="highlight tcl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --<span class="keyword">global</span> --<span class="keyword">unset</span> <span class="keyword">http</span>.proxy</span><br><span class="line">git config --<span class="keyword">global</span> --<span class="keyword">unset</span> https.proxy</span><br></pre></td></tr></table></figure><p>这个方法只是偶尔有用，治标不治本，而且有几次连接超时的时候我用git config –global http.proxy查询接口，返回的就是空，说明这个语句的执行并没有起到实际作用。</p><p>关于SSL错误的问题，主流的解决办法是把SSL验证设为false：</p><figure class="highlight tcl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --<span class="keyword">global</span> <span class="keyword">http</span>.sslVerify <span class="string">&quot;false&quot;</span></span><br></pre></td></tr></table></figure><p>但以上两种方法都只有一定概率能成功。</p><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><p>最终我发现问题在于根目录配置文件_config.yml的deploy这部分，仓库地址repository原来是写了https开头，将deploy改成如下即可正常部署：</p><figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="symbol">deploy:</span></span><br><span class="line"><span class="symbol">  type:</span> git</span><br><span class="line"><span class="symbol">  repository:</span> git@github.com:YOURNAME.github.io.git <span class="meta"># 替换你的账号</span></span><br><span class="line"><span class="symbol">  branch:</span> main</span><br></pre></td></tr></table></figure><p>以上，欢迎交流和指正。</p>]]></content>
     
@@ -94,7 +94,7 @@
     <link href="http://example.com/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/"/>
     <id>http://example.com/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/</id>
     <published>2021-03-15T08:20:34.000Z</published>
-    <updated>2021-03-16T11:37:43.869Z</updated>
+    <updated>2021-03-16T11:37:44.000Z</updated>
     
     <content type="html"><![CDATA[<p><em>你好啊，欢迎来到 yibuxulong.com</em></p><span id="more"></span><hr><h1 id="关于yibuxulong"><a href="#关于yibuxulong" class="headerlink" title="关于yibuxulong"></a>关于yibuxulong</h1><p>  取自epsilon的中文谐音，微积分里是一个略显玄学的概念，too small to be ignored。</p><p>  用yibuxulong作id大概已经有7年时间，某种程度上它已经成了我的另一个名字，在申请个站的时候，毫不犹豫就选择了它。</p><h1 id="关于建站"><a href="#关于建站" class="headerlink" title="关于建站"></a>关于建站</h1><ul><li><p>先聊聊社区</p><p>说起来现在很多领域都尝试细分自己的社区，但总的来说社区的壁垒是越来越低的。</p><p>花上一分钟时间下载，授权账号之后填写一些内容，就能在一个从未到过的平台开始体验。内容大多无需主动寻找，除了一些在固定平台深耕的用户需要逐步了解，更多的是一些几乎随处可见的熟悉面孔。</p><p>在利益上的相互引流之外，一个“爆款”的出现很大程度上会推动社区间的流动，近一年最具代表性之一的就是“健身环大冒险”，从switch游戏圈子火到时尚美妆见长的小红书，疫情期间让很多人入坑了switch。</p><p>平台是否越来越有同质化的倾向？我想是有的。</p><p><img src="/2021/03/15/%E5%85%B3%E4%BA%8Eyibuxulong-com/%E5%81%A5%E8%BA%AB%E7%8E%AF.jpg" alt="健身环"></p><center>打开健身环需要的心理建设超过Keep</center></li><li><p>再说说理由</p><p>为什么需要同时身处那么多平台？</p><p>从我个人来说，比较活跃的平台主要是知乎、豆瓣和哔哩哔哩（B站）。知乎用来查阅和互动，豆瓣用来记录，B站用来学习（误）。</p><p>微博偶尔用，前段时间想用来替代朋友圈的部分功能，但最终效果还是更像一个瘸了腿的树洞——加过的好友不多，但毕竟还是在一个公共平台互相认识，仍需顾及曝光频率和社交需要。关于树洞社交最近发现<a href="https://www.zhihu.com/question/412671912/answer/1630149995">可话APP</a>挺有意思，先要输出内容，再通过内容匹配用户，很安静，就是匹配算法相对还不成熟。</p><p>CSDN博客也写，总结一些技术方面的东西。另外还管理着一个公众号，最近一年除了更新一个现代诗系列，也就写了两三篇文章，公众号说到底还是要给订阅的人做内容服务，是向外对话的，需要兼顾质和量。</p><p>偶尔用<a href="https://writer.drakeet.com/">纯纯写作</a>或者记事本记录的一些想法、故事和笔记，少一点不成一段话，多一些三五百字也有,在普通社交平台发略显重大，而对一篇推文来说又略显松散，只好让它们一直躺在那里，偶尔翻出来看看，自娱自乐。</p><p>说着说着也就说起建站的理由，很重要的一点就是把丢在记事本和留在脑袋里的内容擦亮，找个地方整理出来，用另一种方式被看到。</p></li></ul><h1 id="做些什么"><a href="#做些什么" class="headerlink" title="做些什么"></a>做些什么</h1><p>  这几天服务器崩了，工作推动有点慢，就抽了两天的时间搭建了yibuxulong.com。</p><p>  初步想法是把它做成个人主页，记录自己的生活、学习、研究，大事小事、长篇短篇。</p><p>  理想中能在空乏无聊的时候把时间挪一些到和自己的对话中来；在灰心丧气的时候能找一个地方回顾一下自己。</p><p>  以上。</p>]]></content>
     
