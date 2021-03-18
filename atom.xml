@@ -81,11 +81,11 @@
     <category term="Technique/技术" scheme="http://example.com/categories/Technique-%E6%8A%80%E6%9C%AF/"/>
     
     
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
     <category term="hexo" scheme="http://example.com/tags/hexo/"/>
     
     <category term="github" scheme="http://example.com/tags/github/"/>
-    
-    <category term="blog" scheme="http://example.com/tags/blog/"/>
     
   </entry>
   
