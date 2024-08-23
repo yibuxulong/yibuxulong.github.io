@@ -1,0 +1,8 @@
+@inproceedings{liu2023personalized,
+  title={Personalized User Interface Elements Recommendation System},
+  author={Liu, Hao and Li, Xiangxian and Gai, Wei and Huang, Yu and Zhou, Jingbo and Yang, Chenglei},
+  booktitle={Advances in Computer Graphics: 39th Computer Graphics International Conference, CGI 2022, Virtual Event, September 12--16, 2022, Proceedings},
+  pages={424--436},
+  year={2023},
+  organization={Springer}
+}

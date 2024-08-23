@@ -1,0 +1,8 @@
+@article{li2024cross,
+  title={Cross-modal learning using privileged information for long-tailed image classification},
+  author={Li, Xiangxian and Zheng, Yuze and Ma, Haokai and Qi, Zhuang and Meng, Xiangxu and Meng, Lei},
+  journal={Computational Visual Media},
+  pages={1--12},
+  year={2024},
+  publisher={Springer}
+}

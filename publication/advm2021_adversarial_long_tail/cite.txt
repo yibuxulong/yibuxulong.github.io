@@ -1,0 +1,7 @@
+@inproceedings{li2021comparative,
+  title={Comparative Study of Adversarial Training Methods for Long-tailed Classification},
+  author={Li, Xiangxian and Ma, Haokai and Meng, Lei and Meng, Xiangxu},
+  booktitle={Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia},
+  pages={1--7},
+  year={2021}
+}

@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+My research primarily focuses on cross-modal learning, long-tailed classification, and causal inference. I received my Ph.D. from the School of Software at Shandong University (SDU) in June 2024, under the supervision of Prof. Lei Meng and Prof. Xiangxu Meng. From 2020 to 2024, I worked on cross-modal learning in long-tailed classification with the MMRC team at SDU. Prior to that, between 2018 and 2020, I researched personalized user interface recommendation at SDU. I earned my Bachelor's degree from Huazhong University of Science and Technology (HUST) in June 2018.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cross-modal Learning:** visual-semantic alignment, cross-modal inference
+- **Long-tailed Classification:** long-tailed representation learning
+- **Causal Inference:** heterogeneous causal graph
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** I am graduated from Shandong University.
+- **[Sep. 2023]** My paper is accepted by Journal of Software.
+- **[Apr. 2023]** My paper is accepted by the CVM 2023 (recommended to CVMJ).
+- **[Oct. 2023]** Our team win the Jury Award in the track 2 of Nico challenge 2022 competition.
+- **[Oct. 2021]** l participate in MM 2021 and make a presentation on the ADVM 21.
+- **[Sep. 2018]** I start to study as a Ph.D. student at the School of Software, Shandong University.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/rewards.md %}
 
 {% include_relative _includes/services.md %}

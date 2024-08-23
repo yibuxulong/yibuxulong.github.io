@@ -1,22 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Cross-modal learning using privileged information for long-tailed image classification"
+    authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng* (*Corresponding author)
+    conference_short: CVM
+    conference: Computational Visual Media, 2024.
+    pdf: https://link.springer.com/article/10.1007/s41095-023-0382-0
+    bibtex: ./publication/cvm2023_cm_long_tail/cite.txt
+    image: ./publication/cvm2023_cm_long_tail/featured.jpg
+    notes: Open Access
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Comparative study of adversarial training methods for long-tailed classification"
+    authors: <strong>Xiangxian Li</strong>, Haokai Ma, Lei Meng*, Xiangxu Meng
+    conference_short: ADVM'21
+    conference: Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia, 2021.
+    pdf: https://ercdm.sdu.edu.cn/__local/3/41/FE/4546D845759BA756722EE6FD479_0236218F_15B87A.pdf
+    bibtex: ./publication/advm2021_adversarial_long_tail/cite.txt
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./publication/advm2021_adversarial_long_tail/featured.jpg
+
+  - title: "Personalized User Interface Elements Recommendation System"
+    authors: Hao Liu#, <strong>Xiangxian Li</strong>#, Wei Gai*, Yu Huang, Jingbo Zhou, Chenglei Yang (#Equal contribution)
+    conference_short: CGI'22
+    conference: Computer Graphics International Conference, 2022.
+    pdf: https://drive.google.com/file/d/1gZVbhutNP0Y96GXWOQY0ueyxIGUc9SC1/view
+    bibtex: ./publication/cgi2022_personalize_uie/cite.txt
+    notes: Oral Presentation
+    image: ./publication/cgi2022_personalize_uie/featured.jpg
