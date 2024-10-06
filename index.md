@@ -3,13 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-My research mainly focuses on deep learning, multimedia computing, and intelligent human-computer interaction. To be specific, my research areas cover cross-modal learning, imbalanced learning, visual representation learning, and physiological signal analysis. I received my Ph.D. from the School of Software at Shandong University (SDU) in June 2024, under the supervision of Prof. Lei Meng and Prof. Xiangxu Meng. From 2020 to 2024, I worked on cross-modal learning in long-tailed classification with the MMRC team at SDU. Prior to that, between 2018 and 2020, I researched personalized user interface recommendation at SDU. I earned my Bachelor's degree from Huazhong University of Science and Technology (HUST) in June 2018.
+My research mainly focuses on deep learning, multimedia computing, and intelligent human-computer interaction. To be specific, my research areas cover cross-modal learning, imbalanced learning, visual representation learning, and physiological signal analysis. <br>
+I received my Ph.D. from the School of Software at Shandong University (SDU) in June 2024, under the supervision of Prof. Lei Meng and Prof. Xiangxu Meng. From 2020 to 2024, I worked on cross-modal learning in long-tailed classification with the MMRC team at SDU. Prior to that, between 2018 and 2020, I researched personalized user interface recommendation at SDU. I earned my Bachelor's degree from Huazhong University of Science and Technology (HUST) in June 2018.
 
 ## Research Interests
 
-- **Cross-modal Learning:** visual-semantic alignment, cross-modal inference
-- **Long-tailed Classification:** long-tailed representation learning
-- **Causal Inference:** heterogeneous causal graph
+- **Cross-modal Learning**: visual-semantic alignment, cross-modal inference
+- **Imbalanced learning**: long-tailed classification
+- **Visual representation learning**: image/video representation learning
+- **Physiological signal analysis**: EEG-based flow experience classification
 
 ## News
 - **[Sep. 2024]** Paper about [Detecting Simultaneous Flow](https://arxiv.org/abs/2405.02045) is accepted by UbiComp/IMWUT. 
