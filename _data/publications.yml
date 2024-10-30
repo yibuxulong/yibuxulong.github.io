@@ -1,22 +1,20 @@
 main:
+  - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
+    authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian* (*Corresponding author)
+    conference_short: UbiComp/IMWUT
+    conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
+    pdf: https://arxiv.org/abs/2405.02045
+    bibtex: ./publication/ubicomp2025_eeg_simultaneous_flow/cite.txt
+    image: ./publication/ubicomp2025_eeg_simultaneous_flow/featured.jpg
 
-  - title: "Cross-modal learning using privileged information for long-tailed image classification"
-    authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng* (*Corresponding author)
+  - title: "Cross-modal Learning Using Privileged Information for Long-tailed Image Classification"
+    authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng*
     conference_short: CVM
     conference: Computational Visual Media, 2024.
     pdf: https://link.springer.com/article/10.1007/s41095-023-0382-0
     bibtex: ./publication/cvm2023_cm_long_tail/cite.txt
     image: ./publication/cvm2023_cm_long_tail/featured.jpg
     notes: Open Access
-
-  - title: "Comparative study of adversarial training methods for long-tailed classification"
-    authors: <strong>Xiangxian Li</strong>, Haokai Ma, Lei Meng*, Xiangxu Meng
-    conference_short: ADVM'21
-    conference: Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia, 2021.
-    pdf: https://ercdm.sdu.edu.cn/__local/3/41/FE/4546D845759BA756722EE6FD479_0236218F_15B87A.pdf
-    bibtex: ./publication/advm2021_adversarial_long_tail/cite.txt
-    notes: Oral Presentation
-    image: ./publication/advm2021_adversarial_long_tail/featured.jpg
 
   - title: "Personalized User Interface Elements Recommendation System"
     authors: Hao Liu#, <strong>Xiangxian Li</strong>#, Wei Gai*, Yu Huang, Jingbo Zhou, Chenglei Yang (#Equal contribution)
@@ -26,3 +24,12 @@ main:
     bibtex: ./publication/cgi2022_personalize_uie/cite.txt
     notes: Oral Presentation
     image: ./publication/cgi2022_personalize_uie/featured.jpg
+
+  - title: "Comparative Study of Adversarial Training Methods for Long-tailed Classification"
+    authors: <strong>Xiangxian Li</strong>, Haokai Ma, Lei Meng*, Xiangxu Meng
+    conference_short: ADVM'21
+    conference: Proceedings of the 1st International Workshop on Adversarial Learning for Multimedia, 2021.
+    pdf: https://ercdm.sdu.edu.cn/__local/3/41/FE/4546D845759BA756722EE6FD479_0236218F_15B87A.pdf
+    bibtex: ./publication/advm2021_adversarial_long_tail/cite.txt
+    notes: Oral Presentation
+    image: ./publication/advm2021_adversarial_long_tail/featured.jpg

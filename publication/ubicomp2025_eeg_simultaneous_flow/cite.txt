@@ -1,0 +1,6 @@
+@article{zhang2024we,
+  title={Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals},
+  author={Zhang, Baiqiao and Li, Xiangxian and Zhou, Yunfan and Liu, Juan and Liu, Weiying and Zhou, Chao and Bian, Yulong},
+  journal={arXiv preprint arXiv:2405.02045},
+  year={2024}
+}
