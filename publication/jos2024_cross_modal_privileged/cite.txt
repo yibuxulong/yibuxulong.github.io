@@ -1,0 +1,7 @@
+@article{李象贤2024image,
+  title={Image Classification Method Based on Cross-modal Privileged Information Enhancement},
+  author={李象贤 and 郑裕泽 and 马浩凯 and 齐壮 and 闫晓硕 and 孟祥旭 and 孟雷},
+  journal={Journal of Software},
+  pages={1--17},
+  year={2024}
+}

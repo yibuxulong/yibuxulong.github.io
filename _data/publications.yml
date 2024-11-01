@@ -16,6 +16,15 @@ main:
     image: ./publication/cvm2023_cm_long_tail/featured.jpg
     notes: Open Access
 
+  - title: "Image Classification Method Based on Cross-modal Privileged Information Enhancement"
+    authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiaoshuo Yan, Xiangxu Meng, Lei Meng*
+    conference_short: JOS
+    conference: Journal of Software (软件学报), 2024.
+    pdf: https://www.jos.org.cn/josen/article/abstract/7052
+    bibtex: ./publication/jos2024_cross_modal_privileged/cite.txt
+    image: ./publication/jos2024_cross_modal_privileged/featured.jpg
+    notes: Early Accept
+
   - title: "Personalized User Interface Elements Recommendation System"
     authors: Hao Liu#, <strong>Xiangxian Li</strong>#, Wei Gai*, Yu Huang, Jingbo Zhou, Chenglei Yang (#Equal contribution)
     conference_short: CGI'22
