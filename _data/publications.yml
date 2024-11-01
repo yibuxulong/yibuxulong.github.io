@@ -6,6 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2405.02045
     bibtex: ./publication/ubicomp2025_eeg_simultaneous_flow/cite.txt
     image: ./publication/ubicomp2025_eeg_simultaneous_flow/featured.jpg
+    notes: Early Accept
 
   - title: "Cross-modal Learning Using Privileged Information for Long-tailed Image Classification"
     authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng*
