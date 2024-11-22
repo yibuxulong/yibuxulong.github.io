@@ -3,10 +3,9 @@ main:
     authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian* (*Corresponding author)
     conference_short: UbiComp/IMWUT
     conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
-    pdf: https://arxiv.org/abs/2405.02045
+    pdf: https://dl.acm.org/doi/10.1145/3699774
     bibtex: ./publication/ubicomp2025_eeg_simultaneous_flow/cite.txt
     image: ./publication/ubicomp2025_eeg_simultaneous_flow/featured.jpg
-    notes: Early Accept
 
   - title: "Cross-modal Learning Using Privileged Information for Long-tailed Image Classification"
     authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng*
