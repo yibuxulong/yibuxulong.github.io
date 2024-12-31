@@ -14,7 +14,8 @@ main:
     pdf: https://link.springer.com/article/10.1007/s41095-023-0382-0
     bibtex: ./publication/cvm2023_cm_long_tail/cite.txt
     image: ./publication/cvm2023_cm_long_tail/featured.jpg
-    notes: Open Access
+    code: https://github.com/yibuxulong/CMLTNet
+    notes: Spotlight
 
   - title: "Image Classification Method Based on Cross-modal Privileged Information Enhancement"
     authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiaoshuo Yan, Xiangxu Meng, Lei Meng*
@@ -23,7 +24,6 @@ main:
     pdf: https://www.jos.org.cn/josen/article/abstract/7052
     bibtex: ./publication/jos2024_cross_modal_privileged/cite.txt
     image: ./publication/jos2024_cross_modal_privileged/featured.jpg
-    notes: Early Accept
 
   - title: "Personalized User Interface Elements Recommendation System"
     authors: Hao Liu#, <strong>Xiangxian Li</strong>#, Wei Gai*, Yu Huang, Jingbo Zhou, Chenglei Yang (#Equal contribution)

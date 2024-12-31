@@ -16,6 +16,9 @@ My research focuses on deep learning, multimedia computing, and intelligent huma
 - **Physiological signal analysis**: EEG-based flow experience classification
 
 ## News
+- **[Dec. 2024]** Paper about Causal Inference on Visual-Semantic Graph is accepted by AAAI 2025.
+- **[Dec. 2024]** Paper about [ASD Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is accepted by JBHI.
+- **[Nov. 2024]** I join the [School of Mechanical, Electrical & Information Engineering](https://ie.wh.sdu.edu.cn/index.htm), Shandong University as a postdoctoral researcher.
 - **[Sep. 2024]** Paper about [Detecting Simultaneous Flow](https://arxiv.org/abs/2405.02045) is accepted by UbiComp/IMWUT. 
 - **[Jun. 2024]** I am graduated from Shandong University.
 - **[Sep. 2023]** Paper about [Cross-modal Inference](https://www.jos.org.cn/josen/article/abstract/mL004) is accepted by Journal of Software.
