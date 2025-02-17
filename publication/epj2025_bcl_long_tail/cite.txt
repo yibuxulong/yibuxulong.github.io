@@ -1,0 +1,6 @@
+@inproceedings{li2025addressing,
+  title={Addressing Long-tailed Distribution in Judicial Text for Criminal Motive Classification: A Balanced Contrastive Learning Approach},
+  author={Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, Xiangxian Li},
+  booktitle={EPJ Data Science},
+  organization={Springer}
+}

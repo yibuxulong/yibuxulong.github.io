@@ -1,6 +1,13 @@
 main:
+  - title: "Addressing Long-tailed Distribution in Judicial Text for Criminal Motive Classification: A Balanced Contrastive Learning Approach"
+    authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>* (*Corresponding author)
+    conference_short: EPJ Data Science
+    conference: EPJ Data Science, 2025.
+    bibtex: ./publication/epj2025_bcl_long_tail/cite.txt
+    image: ./publication/epj2025_bcl_long_tail/featured.png
+  
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
-    authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian* (*Corresponding author)
+    authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian*
     conference_short: UbiComp/IMWUT
     conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
     pdf: https://dl.acm.org/doi/10.1145/3699774

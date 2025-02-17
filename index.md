@@ -16,6 +16,7 @@ My research focuses on deep learning, multimedia computing, and intelligent huma
 - **Physiological signal analysis**: EEG-based flow experience classification
 
 ## News
+- **[Feb. 2025]** Paper about Balanced Contrastive Learning in criminal motive classification is accepted by EPJ Data Science. 
 - **[Dec. 2024]** Paper about Causal Inference on Visual-Semantic Graph is accepted by AAAI 2025.
 - **[Dec. 2024]** Paper about [ASD Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is accepted by JBHI.
 - **[Nov. 2024]** I join the [School of Mechanical, Electrical & Information Engineering](https://ie.wh.sdu.edu.cn/index.htm), Shandong University as a postdoctoral researcher.
