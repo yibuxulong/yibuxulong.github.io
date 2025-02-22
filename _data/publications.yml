@@ -3,8 +3,10 @@ main:
     authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>* (*Corresponding author)
     conference_short: EPJ Data Science
     conference: EPJ Data Science, 2025.
+    pdf: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00533-1
     bibtex: ./publication/epj2025_bcl_long_tail/cite.txt
     image: ./publication/epj2025_bcl_long_tail/featured.png
+    notes: Open Access
   
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
     authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian*
