@@ -1,6 +1,13 @@
 main:
+  - title: "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach"
+    authors: Shilong Liu#, Chaorui Tong#, Zelu Liu, <strong>Xiangxian Li</strong>*, Yawen Zheng, Chao Zhou, Juan Liu, Yulong Bian* (#Equal contribution *Corresponding author)
+    conference_short: UIST
+    conference: ACM Symposium on User Interface Software and Technology, 2025.
+    bibtex: ./publication/uist2025_flow_process/cite.txt
+    image: ./publication/uist2025_flow_process/featured.png
+
   - title: "Addressing Long-tailed Distribution in Judicial Text for Criminal Motive Classification: A Balanced Contrastive Learning Approach"
-    authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>* (*Corresponding author)
+    authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>*
     conference_short: EPJ Data Science
     conference: EPJ Data Science, 2025.
     pdf: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00533-1

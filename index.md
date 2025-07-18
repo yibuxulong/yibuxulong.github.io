@@ -7,17 +7,18 @@ I am currently a postdoctoral researcher at the [School of Mechanical, Electrica
 
 I received my Ph.D. from the School of Software at SDU in June 2024, under the supervision of Prof. [Lei Meng](https://ercdm.sdu.edu.cn/info/1013/1523.htm) and Prof. [Xiangxu Meng](https://www.sc.sdu.edu.cn/info/1041/2201.htm). From 2020 to 2024, I worked on cross-modal learning in long-tailed classification with the MMRC team at SDU. Prior to that, between 2018 and 2020, I researched personalized user interface recommendation at SDU. I earned my Bachelor's degree from Huazhong University of Science and Technology (HUST) in June 2018.
 
-My research focuses on deep learning, multimedia computing, and intelligent human-computer interaction. To be specific, my researches cover cross-modal learning, imbalanced learning, visual representation learning, and physiological signal analysis. <br>
+My research interests lie in the fields of deep learning, multimedia computing, and intelligent human-computer interaction. Specifically, I focus on cross-modal learning, imbalanced data learning, visual representation learning, and the analysis of physiological signals. <br>
 
 ## Research Interests
 - **Cross-modal Learning**: visual-semantic alignment, cross-modal inference
 - **Imbalanced learning**: long-tailed image/text classification
 - **Visual representation learning**: image/video representation learning
-- **Physiological signal analysis**: EEG-based flow experience classification
+- **Physiological signal analysis**: EEG-based flow experience recognition
 
 ## News
-- **[Feb. 2025]** Paper about Balanced Contrastive Learning in criminal motive classification is accepted by EPJ Data Science. 
-- **[Dec. 2024]** Paper about Causal Inference on Visual-Semantic Graph is accepted by AAAI 2025.
+- **[Jul. 2025]** Paper about Dynamic Flow Assessment with EEG Signal is accepted by UIST 2025. 
+- **[Feb. 2025]** Paper about [Balanced Contrastive Learning in Criminal Motive Classification](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00533-1) is accepted by EPJ Data Science. 
+- **[Dec. 2024]** Paper about [Causal Inference on Visual-Semantic Graph](https://ojs.aaai.org/index.php/AAAI/article/view/34141) is accepted by AAAI 2025.
 - **[Dec. 2024]** Paper about [ASD Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is accepted by JBHI.
 - **[Nov. 2024]** I join the [School of Mechanical, Electrical & Information Engineering](https://ie.wh.sdu.edu.cn/index.htm), Shandong University as a postdoctoral researcher.
 - **[Sep. 2024]** Paper about [Detecting Simultaneous Flow](https://arxiv.org/abs/2405.02045) is accepted by UbiComp/IMWUT. 
