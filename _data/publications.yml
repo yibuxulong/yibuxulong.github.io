@@ -5,6 +5,14 @@ main:
     conference: ACM Symposium on User Interface Software and Technology, 2025.
     bibtex: ./publication/uist2025_flow_process/cite.txt
     image: ./publication/uist2025_flow_process/featured.png
+  
+  - title: "Causal Inference over Visual-Semantic-Aligned Graph for Image Classification"
+    authors: Lei Meng, <strong>Xiangxian Li</strong>, Xiaoshuo Yan*, Haokai Ma, Zhuang Qi, Wei Wu, Xiangxu Meng
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34141/36296
+    bibtex: ./publication/aaai2025_cross_causal_graph/cite.txt
+    image: ./publication/aaai2025_cross_causal_graph/featured.png
 
   - title: "Addressing Long-tailed Distribution in Judicial Text for Criminal Motive Classification: A Balanced Contrastive Learning Approach"
     authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>*
