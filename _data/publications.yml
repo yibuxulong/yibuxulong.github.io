@@ -1,6 +1,13 @@
 main:
+  - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
+    authors: <strong>Xiangxian Li</strong>, Yawen Zheng*, Baiqiao Zhang, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang (*Corresponding author)
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia, 2025
+    image: ./publication/mm2025_magnet/featured.png
+    notes: Outstanding Paper (Oral)
+
   - title: "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach"
-    authors: Shilong Liu#, Chaorui Tong#, Zelu Liu, <strong>Xiangxian Li</strong>*, Yawen Zheng, Chao Zhou, Juan Liu, Yulong Bian* (#Equal contribution *Corresponding author)
+    authors: Shilong Liu#, Chaorui Tong#, Zelu Liu, <strong>Xiangxian Li</strong>*, Yawen Zheng, Chao Zhou, Juan Liu, Yulong Bian* (#Equal contribution)
     conference_short: UIST
     conference: ACM Symposium on User Interface Software and Technology, 2025.
     bibtex: ./publication/uist2025_flow_process/cite.txt

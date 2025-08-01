@@ -16,6 +16,7 @@ My research interests lie in the fields of deep learning, multimedia computing, 
 - **Physiological signal analysis**: EEG-based flow experience recognition
 
 ## News
+- **[Aug. 2025]** Paper about Multimodal Adaptive Gaussian Networks for Intent Inference is accepted by [MM 2025](https://acmmm2025.org/). 
 - **[Jul. 2025]** Paper about Dynamic Flow Assessment with EEG Signal is accepted by UIST 2025. 
 - **[Feb. 2025]** Paper about [Reviewing of Computing Flow Experience](https://dl.acm.org/doi/abs/10.1145/3706599.3720250) is accepted by [CHI Conference](https://chi2025.acm.org/) Late-Breaking Work. 
 - **[Feb. 2025]** Paper about [Balanced Contrastive Learning in Criminal Motive Classification](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00533-1) is accepted by EPJ Data Science. 
