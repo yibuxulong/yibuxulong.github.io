@@ -1,0 +1,6 @@
+@article{liu2025assessing,
+  title={Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach},
+  author={Liu, Shilong and Tong, Chaorui and Liu, Zelu and Li, Xiangxian and Zheng, Yawen and Zhou, Chao and Liu, Juan and Bian, Yulong},
+  journal={ACM Symposium on User Interface Software and Technology},
+  year={2025}
+}
