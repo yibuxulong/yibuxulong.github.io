@@ -4,6 +4,8 @@ main:
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, 2025
     image: ./publication/emnlp2025_llm_vlm/featured.png
+    pdf: https://arxiv.org/abs/2508.15688
+    bibtex: ./publication/emnlp2025_llm_vlm/cite.txt
 
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
     authors: Baiqiao Zhang, Zhifeng Liao, <strong>Xiangxian Li</strong>*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian*
@@ -17,12 +19,17 @@ main:
     conference: ACM International Conference on Multimedia, 2025
     image: ./publication/mm2025_magnet/featured.png
     notes: Outstanding Paper (Oral)
+    pdf: https://arxiv.org/abs/2508.12992
+    bibtex: ./publication/mm2025_magnet/cite.txt
+    code: https://yibuxulong.github.io/MAGNeT_project/
   
   - title: "Robust Representation of Domain Incomplete Tabular Data via Cross-modal Debiasing and Prototype-fused Reconstruction"
     authors: Xiangyu Meng, <strong>Xiangxian Li</strong>*, Lin Zhao, Yajuan Shen, Hui Sun, Xiaoming Cong, Xianhui Cao, Yunfeng Bi, Juan Liu, Yulong Bian
     conference_short: JSCI
     conference: Journal of King Saud University Computer and Information Sciences, 2025
     image: ./publication/jsci2025_cross_modal_incomplete_tabular/featured.jpg
+    code: https://github.com/Yu-Five/CmTR
+    pdf: https://link.springer.com/article/10.1007/s44443-025-00225-w
 
   - title: "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach"
     authors: Shilong Liu#, Chaorui Tong#, Zelu Liu, <strong>Xiangxian Li</strong>*, Yawen Zheng, Chao Zhou, Juan Liu, Yulong Bian* (#Equal contribution)
