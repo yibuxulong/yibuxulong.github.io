@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a postdoctoral researcher at the [School of Airspace Science and Engineering](https://ie.wh.sdu.edu.cn/index.htm), Shandong University (SDU), working with Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm), and my cooperative supervisor is Prof. [Yunfeng Bi](https://faculty.sdu.edu.cn/biyunfeng/zh_CN/index.htm).
+I am currently a postdoctoral researcher at the [School of Airspace Science and Engineering](https://ie.wh.sdu.edu.cn/index.htm), Shandong University (SDU), working with Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://yulongbian.github.io/), and my cooperative supervisor is Prof. [Yunfeng Bi](https://faculty.sdu.edu.cn/biyunfeng/zh_CN/index.htm).
 
 I received my Ph.D. from the School of Software at SDU in June 2024, under the supervision of Prof. [Lei Meng](https://ercdm.sdu.edu.cn/info/1013/1523.htm) and Prof. [Xiangxu Meng](https://www.sc.sdu.edu.cn/info/1041/2201.htm). From 2020 to 2024, I worked on cross-modal learning in long-tailed classification with the MMRC team at SDU. Prior to that, between 2018 and 2020, I researched personalized user interface recommendation at SDU. I earned my Bachelor's degree from Huazhong University of Science and Technology (HUST) in June 2018.
 
@@ -39,3 +39,5 @@ My research interests lie in the fields of deep learning, multimedia computing, 
 {% include_relative _includes/rewards.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/students.md %}
