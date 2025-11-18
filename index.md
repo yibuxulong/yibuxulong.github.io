@@ -16,6 +16,8 @@ My research interests lie in the fields of deep learning, multimedia computing, 
 - **Physiological signal analysis**: EEG-based flow experience recognition
 
 ## News
+- **[Nov. 2025]** I participate [EMNLP 2025 in Suzhou](https://2025.emnlp.org/).
+- **[Oct. 2025]** I participate [MM 2025 in Dublin](https://acmmm2025.org/) and present for [our paper](https://dl.acm.org/doi/abs/10.1145/3746027.3758187).
 - **[Aug. 2025]** Our 2 papers are accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - **[Aug. 2025]** paper about Cross-modal Incomplete Tabular Reconstruction is accepted by [JSCI](https://link.springer.com/journal/44443/).
 - **[Aug. 2025]** Paper about Multimodal Adaptive Gaussian Networks for Intent Inference is accepted by [MM 2025](https://acmmm2025.org/). 
@@ -41,3 +43,5 @@ My research interests lie in the fields of deep learning, multimedia computing, 
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/students.md %}
+
+{% include_relative _includes/clustrmaps.html %}

@@ -4,14 +4,17 @@ main:
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, 2025
     image: ./publication/emnlp2025_llm_vlm/featured.png
-    pdf: https://arxiv.org/abs/2508.15688
+    pdf: https://aclanthology.org/2025.findings-emnlp.799/
     bibtex: ./publication/emnlp2025_llm_vlm/cite.txt
+    code: https://github.com/Sha843/MDPR
 
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
     authors: Baiqiao Zhang, Zhifeng Liao, <strong>Xiangxian Li</strong>*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian*
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, 2025
+    pdf: https://aclanthology.org/2025.findings-emnlp.287/
     image: ./publication/emnlp2025_rethink_round/featured.png
+    bibtex: ./publication/emnlp2025_rethink_round/cite.txt
 
   - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
     authors: <strong>Xiangxian Li</strong>, Yawen Zheng*, Baiqiao Zhang, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang
@@ -19,7 +22,7 @@ main:
     conference: ACM International Conference on Multimedia, 2025
     image: ./publication/mm2025_magnet/featured.png
     notes: Outstanding Paper (Oral)
-    pdf: https://arxiv.org/abs/2508.12992
+    pdf: https://dl.acm.org/doi/abs/10.1145/3746027.3758187
     bibtex: ./publication/mm2025_magnet/cite.txt
     code: https://yibuxulong.github.io/MAGNeT_project/
   
@@ -36,6 +39,7 @@ main:
     conference_short: UIST
     conference: ACM Symposium on User Interface Software and Technology, 2025.
     bibtex: ./publication/uist2025_flow_process/cite.txt
+    pdf: https://dl.acm.org/doi/10.1145/3746059.3747603
     image: ./publication/uist2025_flow_process/featured.png
   
   - title: "Causal Inference over Visual-Semantic-Aligned Graph for Image Classification"

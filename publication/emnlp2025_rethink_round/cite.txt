@@ -1,6 +1,7 @@
-@article{liu2025assessing,
-  title={Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach},
-  author={Liu, Shilong and Tong, Chaorui and Liu, Zelu and Li, Xiangxian and Zheng, Yawen and Zhou, Chao and Liu, Juan and Bian, Yulong},
-  journal={ACM Symposium on User Interface Software and Technology},
+@inproceedings{zhang2025rethinking,
+  title={Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More},
+  author={Zhang, Baiqiao and Liao, Zhifeng and Li, Xiangxian and Zhou, Chao and Liu, Juan and Ma, Xiaojuan and Bian, Yulong},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  pages={5357--5380},
   year={2025}
 }
