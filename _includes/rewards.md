@@ -1,5 +1,5 @@
 ## Awards
-
+- [2026] China National Collegiate Software Innovation Competition: **National Second Prize**, **National Third Prize**
 - [2023] China College Students' Service Outsourcing Innovation and Entrepreneurship Competition: **National Second Prize in Track B**
 - [2022] NICO CHALLENGE (ECCV Workshop): **Jury Award in the Mixed-Context Generalization Track**
 - [2021] ACM MM Watch and Buy: **Multimodal Product Identification Challenge: Finals (7/587)**
