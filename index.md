@@ -16,6 +16,9 @@ My research interests lie in **multimedia computing** and **intelligent human-co
 - **Embodied Navigation and Interaction in Open Environments**
 
 ## News
+- **[Jun. 2026]** Paper about Child-Oriented AIGC Video Risk Reviewing is accepted by [MM 2026](https://2026.acmmm.org/).
+- **[Jun. 2026]** I participate [ICME 2026 in Bangkok](https://2026.ieeeicme.org/).
+- **[Jun. 2026]** Paper about Pain Relief through Interactive Electrotactile Stimulation is accepted by [IMWUT](https://dl.acm.org/journal/imwut).
 - **[May. 2026]** I participate [CCIG 2026 in Guangzhou](https://ccig.csig.org.cn/2026/index.html).
 - **[Nov. 2025]** I participate [EMNLP 2025 in Suzhou](https://2025.emnlp.org/).
 - **[Oct. 2025]** I participate [MM 2025 in Dublin](https://acmmm2025.org/) and present for [our paper](https://dl.acm.org/doi/abs/10.1145/3746027.3758187).
