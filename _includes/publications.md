@@ -89,5 +89,5 @@
     </div>
   </div>
 </div>
-<script src="./assets/js/bibtex-modal.js"></script>
+<script src="{{ '/assets/js/bibtex-modal.js' | relative_url }}"></script>
 
