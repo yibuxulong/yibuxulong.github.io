@@ -38,7 +38,6 @@
   <body>
     <div class="wrapper">
       <header>
-        
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -57,7 +56,10 @@
         <email>{{ site.email }}</email>
         {% endif %}
 
-        <br>
+        {% if site.position or site.affiliation %}
+        <p class="header-blurb">Researching multimodal intelligence, robust learning, and human-centered interaction.</p>
+        {% endif %}
+
         <br>
         <div class="social-icons">
         {% if site.google_scholar %}
@@ -116,6 +118,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/homepage-extra.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

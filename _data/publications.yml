@@ -1,4 +1,15 @@
 main:
+# Edit `themes:` to control filtering, and `theme_position:` to move the paper tags to `top` when needed.
+  - title: "Child-Oriented AIGC Video Risk Reviewing: A Benchmark and Knowledge-Supported Iterative Reasoning Framework"
+    authors: Lewen Mi, Manyi Li, Yuling Sun, Yufan Zhang, Yuxin Shi, Yulong Bian, <strong>Xiangxian Li</strong>, Juan Liu
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia, 2026
+    image: ./publication/mm2026_child_video_review/featured.png
+    pdf: https://arxiv.org/abs/2607.22715
+    bibtex: ./publication/mm2026_child_video_review/cite.txt
+    themes: [multimodal, hci]
+    summary: Uses a benchmark plus iterative reasoning so the system can inspect child-oriented videos and explain why a clip may be risky.
+
   - title: "LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions"
     authors: Yongju Jia, Jiarui Ma, <strong>Xiangxian Li</strong>*, Baiqiao Zhang, Xianhui Cao, Juan Liu, Yulong Bian (*Corresponding author)
     conference_short: EMNLP
@@ -7,6 +18,8 @@ main:
     pdf: https://aclanthology.org/2025.findings-emnlp.799/
     bibtex: ./publication/emnlp2025_llm_vlm/cite.txt
     code: https://github.com/Sha843/MDPR
+    themes: [multimodal, robust]
+    summary: Learns when to send a prompt to different expert branches, so vision-language tuning stays balanced when long-tailed examples are rare.
 
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
     authors: Baiqiao Zhang, Zhifeng Liao, <strong>Xiangxian Li</strong>*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian*
@@ -15,6 +28,8 @@ main:
     pdf: https://aclanthology.org/2025.findings-emnlp.287/
     image: ./publication/emnlp2025_rethink_round/featured.png
     bibtex: ./publication/emnlp2025_rethink_round/cite.txt
+    themes: [hci]
+    summary: Shows that a shorter dialogue can still capture enough behavioral signal for personality assessment, without making the conversation drag on.
 
   - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
     authors: <strong>Xiangxian Li</strong>, Yawen Zheng*, Baiqiao Zhang, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang
@@ -25,6 +40,8 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3746027.3758187
     bibtex: ./publication/mm2025_magnet/cite.txt
     code: https://yibuxulong.github.io/MAGNeT_project/
+    themes: [multimodal, hci]
+    summary: Tracks what users are likely trying to select when the target keeps moving, which is useful for dynamic interaction scenes.
   
   - title: "Robust Representation of Domain Incomplete Tabular Data via Cross-modal Debiasing and Prototype-fused Reconstruction"
     authors: Xiangyu Meng, <strong>Xiangxian Li</strong>*, Lin Zhao, Yajuan Shen, Hui Sun, Xiaoming Cong, Xianhui Cao, Yunfeng Bi, Juan Liu, Yulong Bian
@@ -33,6 +50,8 @@ main:
     image: ./publication/jsci2025_cross_modal_incomplete_tabular/featured.jpg
     code: https://github.com/Yu-Five/CmTR
     pdf: https://link.springer.com/article/10.1007/s44443-025-00225-w
+    themes: [multimodal, robust]
+    summary: Rebuilds missing table information by borrowing signals across modalities and reducing the bias that incomplete columns usually introduce.
 
   - title: "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach"
     authors: Shilong Liu#, Chaorui Tong#, Zelu Liu, <strong>Xiangxian Li</strong>*, Yawen Zheng, Chao Zhou, Juan Liu, Yulong Bian* (#Equal contribution)
@@ -41,6 +60,8 @@ main:
     bibtex: ./publication/uist2025_flow_process/cite.txt
     pdf: https://dl.acm.org/doi/10.1145/3746059.3747603
     image: ./publication/uist2025_flow_process/featured.png
+    themes: [multimodal, hci]
+    summary: Turns EEG patterns into a simple estimate of when people are entering or leaving flow during interactive tasks.
   
   - title: "Causal Inference over Visual-Semantic-Aligned Graph for Image Classification"
     authors: Lei Meng, <strong>Xiangxian Li</strong>, Xiaoshuo Yan*, Haokai Ma, Zhuang Qi, Wei Wu, Xiangxu Meng
@@ -49,6 +70,8 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/34141/36296
     bibtex: ./publication/aaai2025_cross_causal_graph/cite.txt
     image: ./publication/aaai2025_cross_causal_graph/featured.png
+    themes: [multimodal]
+    summary: Learns causal links between aligned visual and semantic features so the classifier relies less on spurious correlations.
 
   - title: "Addressing Long-tailed Distribution in Judicial Text for Criminal Motive Classification: A Balanced Contrastive Learning Approach"
     authors: Ting Li, Lewen Mi, Xiangyu Meng, Yongju Jia, Lin Zhao, Qi Zhao, Zihao Wei, Guandong Gao, <strong>Xiangxian Li</strong>*
@@ -58,6 +81,8 @@ main:
     bibtex: ./publication/epj2025_bcl_long_tail/cite.txt
     image: ./publication/epj2025_bcl_long_tail/featured.png
     notes: Open Access
+    themes: [robust]
+    summary: Balances learning across common and rare legal motives so long-tailed text classification is less biased.
   
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
     authors: Baiqiao Zhang, <strong>Xiangxian Li</strong>, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou, Yulong Bian*
@@ -66,6 +91,8 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3699774
     bibtex: ./publication/ubicomp2025_eeg_simultaneous_flow/cite.txt
     image: ./publication/ubicomp2025_eeg_simultaneous_flow/featured.jpg
+    themes: [multimodal, hci]
+    summary: Looks for shared flow moments across participants from EEG in ubiquitous-computing settings.
 
   - title: "Cross-modal Learning Using Privileged Information for Long-tailed Image Classification"
     authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiangxu Meng, Lei Meng*
@@ -76,6 +103,8 @@ main:
     image: ./publication/cvm2023_cm_long_tail/featured.jpg
     code: https://github.com/yibuxulong/CMLTNet
     notes: Spotlight
+    themes: [multimodal, robust]
+    summary: Uses privileged cross-modal hints during training to learn stronger image features for long-tailed classification.
 
   - title: "Image Classification Method Based on Cross-modal Privileged Information Enhancement"
     authors: <strong>Xiangxian Li</strong>, Yuze Zheng, Haokai Ma, Zhuang Qi, Xiaoshuo Yan, Xiangxu Meng, Lei Meng*
@@ -84,6 +113,8 @@ main:
     pdf: https://www.jos.org.cn/josen/article/abstract/7052
     bibtex: ./publication/jos2024_cross_modal_privileged/cite.txt
     image: ./publication/jos2024_cross_modal_privileged/featured.jpg
+    themes: [multimodal]
+    summary: Uses extra cross-modal information during training to guide image features toward harder classes.
 
   - title: "Personalized User Interface Elements Recommendation System"
     authors: Hao Liu#, <strong>Xiangxian Li</strong>#, Wei Gai*, Yu Huang, Jingbo Zhou, Chenglei Yang (#Equal contribution)
@@ -93,6 +124,8 @@ main:
     bibtex: ./publication/cgi2022_personalize_uie/cite.txt
     notes: Oral Presentation
     image: ./publication/cgi2022_personalize_uie/featured.jpg
+    themes: [hci]
+    summary: Predicts which interface elements each person is likely to prefer, enabling more personalized UI recommendations.
 
   - title: "Comparative Study of Adversarial Training Methods for Long-tailed Classification"
     authors: <strong>Xiangxian Li</strong>, Haokai Ma, Lei Meng*, Xiangxu Meng
@@ -102,3 +135,5 @@ main:
     bibtex: ./publication/advm2021_adversarial_long_tail/cite.txt
     notes: Oral Presentation
     image: ./publication/advm2021_adversarial_long_tail/featured.jpg
+    themes: [robust]
+    summary: Compares adversarial training choices for long-tailed recognition and identifies the ones that stay stable in practice.

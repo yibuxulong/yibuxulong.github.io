@@ -1,0 +1,9 @@
+@misc{mi2026childorientedaigcvideorisk,
+      title={Child-Oriented AIGC Video Risk Reviewing: A Benchmark and Knowledge-Supported Iterative Reasoning Framework}, 
+      author={Lewen Mi and Manyi Li and Yuling Sun and Yufan Zhang and Yuxin Shi and Yulong Bian and Xiangxian Li and Juan Liu},
+      year={2026},
+      eprint={2607.22715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.22715}, 
+}
