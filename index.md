@@ -34,7 +34,8 @@ My research interests lie in **multimedia computing** and **intelligent human-co
 ## Collaboration
 
 <div class="callout-box">
-<p><strong>I am always happy to swap ideas or start a project together</strong> in multimodal learning, human-computer interaction, and embodied intelligence, especially when the problem is messy, real, and a little fun to untangle.</p>
+<p class="callout-highlight">I will complete my postdoctoral research this winter and am <strong>looking forward to a faculty position</strong>. I am also <strong>always looking for visiting scholar opportunities</strong>.</p>
+<p>I am always happy to swap ideas or start a project together in multimodal learning, human-computer interaction, and embodied intelligence, especially when the problem is messy, real, and a little fun to untangle.</p>
 </div>
 
 {% include_relative _includes/news.md %}

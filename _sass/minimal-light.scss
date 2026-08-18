@@ -992,6 +992,14 @@ footer {
   margin-bottom: 0;
 }
 
+.callout-highlight {
+  color: #043361;
+}
+
+.callout-highlight strong {
+  color: #c0392b;
+}
+
 .callout-note {
   color: #666;
   font-size: 0.96rem;
@@ -1017,6 +1025,14 @@ footer {
   .callout-box {
     border-left-color: #3eb7f0;
     background: rgba(62, 183, 240, 0.08);
+  }
+
+  .callout-highlight {
+    color: #cfefff;
+  }
+
+  .callout-highlight strong {
+    color: #ff8a80;
   }
 
   .callout-note {
